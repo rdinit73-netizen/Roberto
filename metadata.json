@@ -1,0 +1,6 @@
+{
+  "name": "Promo Manager - Diario & Guadagni Promoter",
+  "description": "App personale per la singola promoter: gestione appuntamenti, agenzie di incarico, calcolo compensi e rimborsi km con integrazione MIT App Inventor WebViewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
